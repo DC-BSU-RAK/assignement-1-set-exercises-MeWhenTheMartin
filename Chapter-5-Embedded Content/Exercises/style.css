@@ -1,0 +1,19 @@
+body {
+    background-color: blue;
+}
+
+video {
+    display:block;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+p {
+    display:block;
+    margin: 0 auto;
+    margin-top: 25px;
+    text-align: center;
+
+    color:white;
+    font-size: 200%;
+}
